@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spacex</string>
+    <string name="name_of_card">Name: %s</string>
+    <string name="agency">Agency: %s</string>
+    <string name="status_of_crew">Status: %s</string>
+    <string name="count_of_flight">Count of flight: %s</string>
+    <string name="status_of_card">Status: %s</string>
+    <string name="ok_status">OK</string>
+    <string name="fail_status">Fail</string>
+    <string name="date_of_flight">Date of flight: %s</string>
+    <string name="icon_description">Icon of card</string>
+    <string name="txt_crew">Crew:</string>
+    <string name="show_more">SHOW MORE</string>
+</resources>
